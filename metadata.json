@@ -1,0 +1,5 @@
+{
+  "name": "ThanhVan Designer - Used Products",
+  "description": "An e-commerce platform for used products by ThanhVan Designer, showcasing a product grid with filtering and sorting functionalities. Built with TypeScript and Tailwind CSS for a modern, responsive user experience.",
+  "requestFramePermissions": []
+}
